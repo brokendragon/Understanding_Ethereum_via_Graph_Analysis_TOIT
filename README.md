@@ -24,5 +24,4 @@ Ting Chen, Zihao Li, Yuxiao Zhu, Jiachi Chen, Xiapu Luo, John Chi-Shing Lui, Xia
   number={2},  
   pages={1--32},  
   year={2020},  
-  publisher={ACM New York, NY, USA}  
-}
+  publisher={ACM New York, NY, USA}}
