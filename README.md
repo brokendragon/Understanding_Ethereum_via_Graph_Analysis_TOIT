@@ -3,7 +3,7 @@
 The files stores the data to construct the graph in paper.
 
 After compress the basic graph edge data, the size is over 8GB. While it is over 20GB without compression.
-So we upload the basic graph edge data to Baidu Cloud, and you can get data by this URL--https://pan.baidu.com/s/1w2B-zeK1CT8hIPy0p-swXg, 
+So we upload the basic graph edge data to Baidu Cloud, and you can get data by this URL https://pan.baidu.com/s/1w2B-zeK1CT8hIPy0p-swXg, 
 and the password is n3x0.
 No password for compression, if this URL is disabled, please contact us.
 
